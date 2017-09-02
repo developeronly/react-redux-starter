@@ -2,6 +2,9 @@
   "name": "pluralsight-redux-starter",
   "version": "1.0.0",
   "description": "Starter kit for React and Redux",
+  "scripts": {
+    "start": "babel-node tools/srcServer.js"
+  },
   "author": "Dheeraj Karande",
   "license": "MIT",
   "dependencies": {
