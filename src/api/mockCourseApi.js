@@ -6,28 +6,28 @@ import delay from './delay';
 const courses = [
   {
     id: "react-flux-building-applications",
-    title: "Building Applications in React and Flux",
+    title: "Building Applications in React and Redux",
     authorId: "rob-hanky",
     length: "5:08",
     category: "JavaScript"
   },
   {
     id: "clean-code",
-    title: "Clean Code: Writing Code for Humans",
+    title: "Clean Code",
     authorId: "rob-hanky",
     length: "3:10",
     category: "Software Practices"
   },
   {
     id: "architecture",
-    title: "Architecting Applications for the Real World",
+    title: "Architecting JS Applications",
     authorId: "rob-hanky",
     length: "2:52",
     category: "Software Architecture"
   },
   {
     id: "career-reboot-for-developer-mind",
-    title: "Becoming an Outlier: Reprogramming the Developer Mind",
+    title: "Design Patterns",
     authorId: "rob-hanky",
     length: "2:30",
     category: "Career"
